@@ -4,7 +4,7 @@ This uses a BNO055 absolute orientation sensor, as well as a Raspberry Pi, in or
 These changes can include changes in user's walking speed and the lurching. 
 
 
-<p float="left" justify-content="center">
+<p float="left" align-items="center">
   <img src="/gaitBelt.jpg" width="400" height="350"  >
   <img src="/board.jpg" width="400" height="350" >
 </p>
