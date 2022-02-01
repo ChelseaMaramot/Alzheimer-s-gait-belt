@@ -9,7 +9,7 @@ These changes can include changes in user's walking speed and the lurching.
   <img src="/board.jpg" width="400" height="350" >
 </p>
 
-This first year University group design project was featured in the University [website](https://www.eng.mcmaster.ca/ibiomed/news/first-year-ibiomed-students-share-innovative-healthcare-solutions-1p10-design-expo):
+## This first year University group design project was featured in the University [website](https://www.eng.mcmaster.ca/ibiomed/news/first-year-ibiomed-students-share-innovative-healthcare-solutions-1p10-design-expo):
 
 <p align="center">
  <img src="/article.jpg" width="600" height="600" >
