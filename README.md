@@ -8,10 +8,9 @@ These changes can include changes in user's walking speed and the lurching.
   <img src="/gaitBelt.jpg" width="400" height="350"  >
   <img src="/board.jpg" width="400" height="350" >
 </p>
-
-
-
+<div>
 This first year University group design project was featured in the University [website](https://www.eng.mcmaster.ca/ibiomed/news/first-year-ibiomed-students-share-innovative-healthcare-solutions-1p10-design-expo):
 <p justify-content="center">
  <img src="/article.jpg" width="600" height="600" >
 </p>
+</div>
