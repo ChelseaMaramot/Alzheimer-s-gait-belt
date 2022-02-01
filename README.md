@@ -3,6 +3,11 @@ Alzheimer's gait belt detects and monitors unusual gait changes of a patient  in
 This uses a BNO055 absolute orientation sensor, as well as a Raspberry Pi, in order to monitor, detect, and alert the user of any unsual changes to their gait.
 These changes can include changes in user's walking speed and the lurching. 
 
+<img src="/gaitBelt.jpg" width="100" height="10" >
+<img src="/board.jpg" width="100" height="10" >
+
+
+
 ![Gait Belt Prototype](/gaitBelt.jpg)
 
 ![Bread Board](/board.jpg)
