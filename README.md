@@ -5,6 +5,8 @@ These changes can include changes in user's walking speed and the lurching.
 
 ![Gait Belt Prototype](/gaitBelt.jpg)
 
-This first year University group design project was featured in the Universityy [website](https://www.eng.mcmaster.ca/ibiomed/news/first-year-ibiomed-students-share-innovative-healthcare-solutions-1p10-design-expo):
+![Bread Board](/board.jpg)
+
+This first year University group design project was featured in the University [website](https://www.eng.mcmaster.ca/ibiomed/news/first-year-ibiomed-students-share-innovative-healthcare-solutions-1p10-design-expo):
 
 ![McMaster article](/article.jpg)
